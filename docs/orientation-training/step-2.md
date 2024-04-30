@@ -286,9 +286,9 @@ Bambu 3D列印機有自己的切片軟體可以透過該軟體直接列印不用
 ![](https://imgur.com/a/1ngz1Hq.png)
 
 - 機台預設調整
- - 噴嘴選擇Bambu Lab X1 Carbon 0.4 nozzle
- - Bed type選擇Textured PEI Plate(紋理PEI打印版)
- - Filamet點選自動同步
+  - 噴嘴選擇Bambu Lab X1 Carbon 0.4 nozzle
+  - Bed type選擇Textured PEI Plate(紋理PEI打印版)
+  - Filamet點選自動同步
 
 ### 進行列印
 將「ATOM 2.5 EX (FX)」的 SD 卡取下，並將目標 G-Code 檔（.gcode）放到 SD 卡內，再將 SD 卡插回機台並開啟電源即可。
