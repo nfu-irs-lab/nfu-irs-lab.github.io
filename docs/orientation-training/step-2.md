@@ -263,7 +263,7 @@ title: 階段二：基本設備
 >   - 僅在外部列印邊緣：`[√]`
 
 ### 切片
-
+#### Cura
 > :triangular_flag_on_post: 示範影片。
 >
 > [![](https://img.youtube.com/vi/dQmnk84itwM/0.jpg)](https://youtu.be/dQmnk84itwM)
@@ -279,16 +279,17 @@ title: 階段二：基本設備
 
 確定沒問題後就可以點擊右下角的「儲存檔案」，來輸出成 G-Code 檔（.gcode）。
 
-##Bambu Studio
+#### Bambu Studio
 Bambu 3D列印機有自己的切片軟體可以透過該軟體直接列印不用透過SD卡，直接在軟體內切片與調整就好(https://bambulab.com/en/download/studio)
--軟體開啟後登入實驗室帳號(帳號:nfurobotlab.member@gmail.com，密碼:ai056315686robot)
--直接把檔案拉進Bambu Studio或點選OPEN PROJECT
+- 軟體開啟後用nfurobotlab.member@gmail.com登入
+- 直接把檔案拉進Bambu Studio或點選OPEN PROJECT
 ![](https://imgur.com/a/1ngz1Hq.png)
 
-###機台預設調整
--噴嘴選擇Bambu Lab X1 Carbon 0.4 nozzle
--Bed type選擇Textured PEI Plate
--Filamet點選自動同步
+- 機台預設調整
+ - 噴嘴選擇Bambu Lab X1 Carbon 0.4 nozzle
+ - Bed type選擇Textured PEI Plate(紋理PEI打印版)
+ - Filamet點選自動同步
+
 ### 進行列印
 將「ATOM 2.5 EX (FX)」的 SD 卡取下，並將目標 G-Code 檔（.gcode）放到 SD 卡內，再將 SD 卡插回機台並開啟電源即可。
 
