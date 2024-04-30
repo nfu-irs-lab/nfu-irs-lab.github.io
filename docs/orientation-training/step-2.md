@@ -280,16 +280,15 @@ title: 階段二：基本設備
 確定沒問題後就可以點擊右下角的「儲存檔案」，來輸出成 G-Code 檔（.gcode）。
 
 #### Bambu Studio
-> 詳細參數設定請見:[Bambu Lab Wiki](https://wiki.bambulab.com/zh/x1)
+> 詳細內容請見:[Bambu Lab Wiki](https://wiki.bambulab.com/zh/x1)
 
-Bambu 3D列印機有自己的切片軟體可以透過該軟體直接列印不用透過SD卡，直接在軟體內切片與調整就好
-(https://bambulab.com/en/download/studio)
+Bambu 3D列印機有自己的[切片軟體](https://bambulab.com/en/download/studio)可以透過該軟體直接列印不用透過SD卡，直接在軟體內切片與調整就好
 
 - 軟體開啟後用nfurobotlab.member@gmail.com登入
 - 直接把檔案拉進Bambu Studio或點選OPEN PROJECT
 ![](https://imgur.com/a/1ngz1Hq.png)
 
-- 機台預設調整
+- 調整切片參數
   - 噴嘴選擇Bambu Lab X1 Carbon 0.4 nozzle
   - Bed type選擇Textured PEI Plate(紋理PEI打印版)
   - Filamet點選自動同步
@@ -309,11 +308,9 @@ Bambu 3D列印機有自己的切片軟體可以透過該軟體直接列印不用
 
 ### 列印完成
 
-:::caution
-Bambu X1-Carbon紋理PEI打印版待溫度下降後直接用手拔除列印件，尖銳物會破壞塗層。
-:::
-
 列印完成後可以利用鏟刀來將列印完成之列印件從列印平台上剷起。使用尖嘴鉗或斜口鉗將多餘的部分（如支撐支架、邊緣）去除。
+
+> Bambu X1-Carbon待溫度下降後直接用手拔除列印件，尖銳物會破壞列印平台塗層。
 
 等待 3D 列印機的擠出頭溫度降到 `100°C` 以下後就可以關閉電源。離開時記得清潔乾净、將垃圾丟到垃圾桶並將工具放回原位。
 
