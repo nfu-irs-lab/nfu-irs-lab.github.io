@@ -163,12 +163,13 @@ title: 階段二：基本設備
 :::
 
 ## 3D 列印機
-目前實驗室共有 3 台 3D 列印機，分別為：
+目前實驗室共有 4 台 3D 列印機，分別為：
 - Creality CR-5 Pro（白色，笛卡爾型）
 - Creality Ender-5 Pro （黑色，笛卡爾型）
 - Creality CR-30 *3DPrintMill*（黑色，履帶型，需要專用軟體）
+- Bambu X1-Carbon Combo(銀色，需要專用軟體，Bambu Studio)
 
-![](https://i.imgur.com/Nj1ynSK.png)
+![](https://imgur.com/a/wNlvOM9.png)
 
 以下以「ATOM 2.5 EX/FX」示範 3D 列印機的使用操作。
 
@@ -278,6 +279,16 @@ title: 階段二：基本設備
 
 確定沒問題後就可以點擊右下角的「儲存檔案」，來輸出成 G-Code 檔（.gcode）。
 
+##Bambu Studio
+Bambu 3D列印機有自己的切片軟體可以透過該軟體直接列印不用透過SD卡，直接在軟體內切片與調整就好(https://bambulab.com/en/download/studio)
+-軟體開啟後登入實驗室帳號(帳號:nfurobotlab.member@gmail.com，密碼:ai056315686robot)
+-直接把檔案拉進Bambu Studio或點選OPEN PROJECT
+![](https://imgur.com/a/1ngz1Hq.png)
+
+###機台預設調整
+-噴嘴選擇Bambu Lab X1 Carbon 0.4 nozzle
+-Bed type選擇Textured PEI Plate
+-Filamet點選自動同步
 ### 進行列印
 將「ATOM 2.5 EX (FX)」的 SD 卡取下，並將目標 G-Code 檔（.gcode）放到 SD 卡內，再將 SD 卡插回機台並開啟電源即可。
 
@@ -307,3 +318,5 @@ title: 階段二：基本設備
 夾爪與機械手臂的結構不限（關節式、SCARA），但應要有辦法完成「驗收-4」的要求。
 
 > 組裝時會用到螺絲，請將所有用到的螺絲規格（如 `M2×10mm`）列表記錄，以方便之後拆解完可以將螺絲按照正確的規格分類。
+
+##
