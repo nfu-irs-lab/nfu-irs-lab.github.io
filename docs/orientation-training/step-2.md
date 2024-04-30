@@ -280,7 +280,11 @@ title: 階段二：基本設備
 確定沒問題後就可以點擊右下角的「儲存檔案」，來輸出成 G-Code 檔（.gcode）。
 
 #### Bambu Studio
-Bambu 3D列印機有自己的切片軟體可以透過該軟體直接列印不用透過SD卡，直接在軟體內切片與調整就好(https://bambulab.com/en/download/studio)
+> 詳細參數設定請見:[Bambu Lab Wiki](https://wiki.bambulab.com/zh/x1)
+
+Bambu 3D列印機有自己的切片軟體可以透過該軟體直接列印不用透過SD卡，直接在軟體內切片與調整就好
+(https://bambulab.com/en/download/studio)
+
 - 軟體開啟後用nfurobotlab.member@gmail.com登入
 - 直接把檔案拉進Bambu Studio或點選OPEN PROJECT
 ![](https://imgur.com/a/1ngz1Hq.png)
@@ -312,6 +316,7 @@ Bambu 3D列印機有自己的切片軟體可以透過該軟體直接列印不用
 - 3D 列印的尺寸誤差較大，在進行模型繪製時請將此因素考慮進尺寸的設定中。
 - 嘗試列印時可以將列印品質調低（如降低填充密度），來節省時間與耗材，等確定該模型沒問題後，再進行正式的列印。
 - 3D 列印件的强度有限，如果需要較高强度的零件，請選擇其它加工成型方式，而不是一味地增加填充密度（填充密度建議不要超過 `25%`，再高的意義不大、强度增加有限，但會大幅增加列印時間與耗材使用）。
+- 若列印時出現其他問題，請參考[Bambu Lab Wiki 常见打印质量问题和解决办法](https://wiki.bambulab.com/zh/knowledge-sharing/common-print-quality-problem)
 
 ## 驗收-2：自行設計並製作機械手臂
 使用「驗收-1」所繪製的 AX-12 馬達 3D 模型，再自行繪製其支撐零件，設計一個帶夾爪的機械手臂。並利用雷射切割機或 3D 列印機將零件製作出來，並完成組裝。
