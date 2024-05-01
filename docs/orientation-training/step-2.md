@@ -266,7 +266,7 @@ title: 階段二：基本設備
 #### Cura
 > :triangular_flag_on_post: 示範影片。
 >
-> [![](https://img.youtube.com/vi/dQmnk84itwM/0.jpg)](https://youtu.be/dQmnk84itwM)
+> [![](/vi/https://img.youtube.comdQmnk84itwM/0.jpg)](https://youtu.be/dQmnk84itwM)
 
 設定好列印參數後就可以進行切片。
 
@@ -284,7 +284,7 @@ title: 階段二：基本設備
 
 Bambu 3D列印機有自己的[切片軟體](https://bambulab.com/en/download/studio)可以透過該軟體直接列印不用透過SD卡，直接在軟體內切片與調整就好
 
-- 軟體開啟後用nfurobotlab.member@gmail.com登入
+- 軟體開啟後用實驗室帳號(帳號:nfurobotlab.member@gmail.com，密碼:ai056315686robot)登入
 - 直接把檔案拉進Bambu Studio或點選OPEN PROJECT
 ![](https://imgur.com/a/1ngz1Hq.png)
 
