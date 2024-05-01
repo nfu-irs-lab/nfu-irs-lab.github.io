@@ -169,7 +169,7 @@ title: 階段二：基本設備
 - Creality CR-30 *3DPrintMill*（黑色，履帶型，需要專用軟體）
 - Bambu X1-Carbon Combo(銀色，需要專用軟體，Bambu Studio)
 
-![](https://imgur.com/a/83Tkkpj.png)
+![](https://i.imgur.com/aT61JOm.png)
 
 以下以「ATOM 2.5 EX/FX」示範 3D 列印機的使用操作。
 
