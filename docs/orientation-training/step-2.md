@@ -169,7 +169,7 @@ title: 階段二：基本設備
 - Creality CR-30 *3DPrintMill*（黑色，履帶型，需要專用軟體）
 - Bambu X1-Carbon Combo(銀色，需要專用軟體，Bambu Studio)
 
-![Imgur](https://i.imgur.com/rNYrdt7.png)
+![img]https://i.imgur.com/aT61JOm.png[/img]
 
 以下以「ATOM 2.5 EX/FX」示範 3D 列印機的使用操作。
 
@@ -286,7 +286,7 @@ Bambu 3D列印機有自己的[切片軟體](https://bambulab.com/en/download/stu
 
 - 軟體開啟後用實驗室帳號(帳號:nfurobotlab.member@gmail.com)登入
 - 直接把檔案拉進Bambu Studio或點選OPEN PROJECT
-![](https://i.imgur.com/a/eZY7niz.png)
+![Imgur](https://i.imgur.com/rNYrdt7.png)
 
 - 調整切片參數
   - 噴嘴選擇Bambu Lab X1 Carbon 0.4 nozzle
