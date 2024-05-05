@@ -268,7 +268,7 @@ title: 階段二：基本設備
 ### Cura
 > :triangular_flag_on_post: 示範影片。
 >
-> [![](https://img.youtube.comdQmnk84itwM/0.jpg)](https://youtu.be/dQmnk84itwM)
+> [![](https://img.youtube.com/vi/dQmnk84itwM/0.jpg)](https://youtu.be/dQmnk84itwM)
 
 設定好列印參數後就可以進行切片。
 
@@ -304,7 +304,13 @@ Creality  CR-5 Pro 與 Ender-5 Pro 需要在列印前手動條平。若平台太
 
 未調平前，須看著列印機印完第一層才可離開。
 
+<img src="https://i.imgur.com/WQ2ytfV.gifv" width="250"/>
+
 ![Imgur](https://i.imgur.com/WQ2ytfV.gifv)
+
+![Imgur](https://i.imgur.com/jrR4yJu.gifv)
+
+![Imgur](https://i.imgur.com/ktsCcJC.gifv)
 
 - 步驟
   - 回到原點(auto home)
