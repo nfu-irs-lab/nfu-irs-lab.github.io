@@ -304,21 +304,13 @@ Creality  CR-5 Pro 與 Ender-5 Pro 需要在列印前手動條平。若平台太
 
 未調平前，須看著列印機印完第一層才可離開。
 
-<img src="https://i.imgur.com/WQ2ytfV.gifv" width="250"/>
-
-![Imgur](https://i.imgur.com/WQ2ytfV.gifv)
-
-![Imgur](https://i.imgur.com/jrR4yJu.gifv)
-
-![Imgur](https://i.imgur.com/ktsCcJC.gifv)
-
 - 步驟
   - 回到原點(auto home)
   - 關閉步進馬達
   - 將擠出機移到平台4個角落
   - 墊上白紙，移動白紙(或擠出機)感受平台高度
   > 螺母向上轉->平台向下，螺母向下轉->平台向上
-  - 調完開始列印，並微調螺母直到料能黏上平台
+  - 調完即可開始列印第一層，並微調螺母直到料能黏上平台
 
 
 ## 進行列印
