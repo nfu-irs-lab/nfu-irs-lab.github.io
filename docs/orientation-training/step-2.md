@@ -294,7 +294,24 @@ Bambu 3D列印機有自己的[切片軟體](https://bambulab.com/en/download/stu
   - 噴嘴選擇Bambu Lab X1 Carbon 0.4 nozzle
   - Bed type選擇Textured PEI Plate(紋理PEI打印版)
   - Filamet點選自動同步
+
 ![Imgur](https://i.imgur.com/q6PeUtc.png)
+
+## 準備列印
+Creality  CR-5 Pro 與 Ender-5 Pro 需要在列印前手動條平。若平台太低會造成料黏不上平台，反之有可能損壞列印機。
+
+未調平前，須看著列印機印完第一層才可離開。
+
+![Imgur](https://i.imgur.com/WQ2ytfV.gifv)
+
+- 步驟
+  - 回到原點(auto home)
+  - 關閉步進馬達
+  - 將擠出機移到平台4個角落
+  - 墊上白紙，移動白紙(或擠出機)感受平台高度
+  > 螺母向上轉->平台向下，螺母向下轉->平台向上
+  - 調完開始列印，並微調螺母直到料能黏上平台
+
 
 ## 進行列印
 將「ATOM 2.5 EX (FX)」的 SD 卡取下，並將目標 G-Code 檔（.gcode）放到 SD 卡內，再將 SD 卡插回機台並開啟電源即可。
