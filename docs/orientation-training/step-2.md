@@ -268,7 +268,7 @@ title: 階段二：基本設備
 ### Cura
 > :triangular_flag_on_post: 示範影片。
 >
-> [![](/vi/https://img.youtube.comdQmnk84itwM/0.jpg)](https://youtu.be/dQmnk84itwM)
+> [![](https://img.youtube.comdQmnk84itwM/0.jpg)](https://youtu.be/dQmnk84itwM)
 
 設定好列印參數後就可以進行切片。
 
