@@ -304,6 +304,10 @@ Creality  CR-5 Pro 與 Ender-5 Pro 需要在列印前手動條平。若平台太
 
 未調平前，須看著列印機印完第一層才可離開。
 
+> :triangular_flag_on_post: 示範影片。
+>
+> [![](https://img.youtube.com/vi/2kmvb49FlUs/0.jpg)](https://youtu.be/2kmvb49FlUs)
+
 - 步驟
   - 回到原點(auto home)
   - 關閉步進馬達
