@@ -295,6 +295,8 @@ Bambu 3D列印機有自己的[切片軟體](https://bambulab.com/en/download/stu
   - Bed type選擇Textured PEI Plate(紋理PEI打印版)
   - Filamet點選自動同步
 
+- 重新同步AMS
+
 ![Imgur](https://i.imgur.com/q6PeUtc.png)
 
 ## 準備列印
