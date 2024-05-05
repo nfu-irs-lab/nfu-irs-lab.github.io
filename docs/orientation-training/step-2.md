@@ -5,7 +5,7 @@ title: 階段二：基本設備
 
 學習雷射切割機與 3D 列印機的使用方式，以製作零件。
 
-## 雷射切割機
+### 雷射切割機
 
 :::caution
 雷射切割機若操作不當將導致火災，操作時請小心並多加確認。
@@ -17,7 +17,7 @@ title: 階段二：基本設備
 
 > 以下將雷射切割機簡稱為雷切機。
 
-## 取得 DXF 檔
+### 取得 DXF 檔
 
 雷切機需要使用 DXF 檔（或其它類似的 2D 圖檔）。若檔案是使用 onshape 繪製，只要將目標平面匯出即可。
 
@@ -41,7 +41,7 @@ title: 階段二：基本設備
 
 > 若使用 SolidWorks 的話，請調整視角以正對目標平面，再另存新檔（Save As）並在檔案格式選擇「DXF」後，確認就可以了。
 
-## 雷切機開機
+### 雷切機開機
 
 開機前先確認鑰匙開關是否已開啟，且緊急停機按鈕「STOP」沒有被按下。
 
@@ -62,7 +62,7 @@ title: 階段二：基本設備
 [![](https://1.bp.blogspot.com/-CqzjryPf4Ls/YFoMVp4KD-I/AAAAAAAAAZw/7oDZZwrRuGcaibOQ23PiCQWvOF0UcBL1gCPcBGAsYHg/w640-h480/03-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25B7%258A%25E6%2580%25A5%25E5%2581%259C%25E6%25AD%25A21.jpg)](https://1.bp.blogspot.com/-CqzjryPf4Ls/YFoMVp4KD-I/AAAAAAAAAZw/7oDZZwrRuGcaibOQ23PiCQWvOF0UcBL1gCPcBGAsYHg/w640-h480/03-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25B7%258A%25E6%2580%25A5%25E5%2581%259C%25E6%25AD%25A21.jpg)
 > ▲ 雷切機開機
 
-## 導入 DXF 檔
+### 導入 DXF 檔
 
 操作雷切機請使用雷切機專用的電腦，並打開專用程式「LaserCut 5.3」。
 
@@ -81,7 +81,7 @@ title: 階段二：基本設備
 [![](https://1.bp.blogspot.com/-HbxgFj0BShE/YFoMVrbTRjI/AAAAAAAAAZw/Kpi5kHHpwdUn5OW390s42Bd3OrHSN3DZwCPcBGAsYHg/w640-h480/06-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25A8%258B%25E5%25BC%258F%25E5%2590%2588%25E5%25B9%25B6%25E7%259B%25B8%25E9%2580%25A31.jpg)](https://1.bp.blogspot.com/-HbxgFj0BShE/YFoMVrbTRjI/AAAAAAAAAZw/Kpi5kHHpwdUn5OW390s42Bd3OrHSN3DZwCPcBGAsYHg/w640-h480/06-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25A8%258B%25E5%25BC%258F%25E5%2590%2588%25E5%25B9%25B6%25E7%259B%25B8%25E9%2580%25A31.jpg)
 > ▲ 合併相連線
 
-## 設定參數及圖層
+### 設定參數及圖層
 
 接下來要設定雷切參數及圖層。
 
@@ -105,7 +105,7 @@ title: 階段二：基本設備
 
 若要切割的目標零件是中間沒有孔洞，只有外框輪廓的，那就只要設定一個圖層就可以了。但如果是中間有孔洞（如螺絲孔、鏤空）的話，那外框輪廓的線條與內部孔洞的線條要設定不同的圖層，且內部孔洞的圖層順序要在前（雷切機製作的順序為圖層較高的先），這樣做的目的是避免零件切割掉落後產生的誤差。
 
-## 雷切機操作
+### 雷切機操作
 
 :::caution
 操作雷切機時，如果出現任何問題或預期外事件，立刻按下緊急停機按鈕（STOP）。
@@ -142,7 +142,7 @@ title: 階段二：基本設備
 
 等雷切機完成後即可打開上蓋，小力觸碰切割零件，確認是否已經完全切斷，如果沒有切斷，可以再次進行切割。如果已經完全切斷，就可以將零件及壓克力板拿起，將切割之餘碎料丟到垃圾桶。
 
-## 復歸
+### 復歸
 
 如果雷切工作都已經結束了，請進行復歸動作。
 - 將雷射頭對焦調整螺絲轉鬆，把雷射對焦頭完全升起後再鎖上。
@@ -150,7 +150,7 @@ title: 階段二：基本設備
 - 將壓克力板拿出並且清潔乾淨。
 - 蓋上雷切機的上蓋。
 
-## 雷切機關機
+### 雷切機關機
 
 要關機的話，請將各設備依序開機時的相反順序關閉電源，依序分別為：
 - 雷射切割機
@@ -162,12 +162,16 @@ title: 階段二：基本設備
 一定要確定機台都確實關機停止運作，否則有可能導致火災。
 :::
 
-# 3D 列印機
+## 3D 列印機
 目前實驗室共有 4 台 3D 列印機，分別為：
 - Creality CR-5 Pro（白框藍箱，Cura切片）
 - Creality Ender-5 Pro （黑色無箱，Cura切片）
 - Creality CR-30 *3DPrintMill*（黑色履帶，Cura切片）
 - Bambu X1-Carbon Combo(銀色黑箱，Bambu Studio切片)
+
+>- 已停用
+>   - UP BOX+(維護後可使用，[UP Studio](https://www.tiertime.com/up-studio/)切片，專印ABS)
+>   - ATOM 2.5 EX/FX
 
 ![Imgur](https://i.imgur.com/aT61JOm.png)
 
@@ -175,7 +179,7 @@ title: 階段二：基本設備
 
 > 3D 列印機的參數設定請見：[docs/3d-printer](https://github.com/nfu-irs-lab/docs/blob/main/others/3d-printer.md)
 
-## 取得 STL 檔
+### 取得 STL 檔
 要列印 3D 模型，首先要取得該模型的 STL 檔。若想要列印在 onshape 上繪製的模型，只要將該模型匯出即可。
 
 在 onshape 中打開欲列印的檔案，在下方的元件列中以對目標元件點擊滑鼠右鍵，並選擇「匯出」。
@@ -199,22 +203,28 @@ title: 階段二：基本設備
 
 > 若使用 SolidWorks 的話，請直接開啟目標模型的檔案，並另存新檔（Save As），在檔案格式中選擇「STL」即可。
 
-## 設定切片軟體
+### 設定切片軟體
+
 3D 列印機無法直接列印 STL 檔，必須要使用切片軟體設定好列印參數後，再將 STL 檔轉換成 G-Code 檔（.gcode）才可以進行列印。
 
-切片軟體有非常多種，如 Cura、Slic3r 或 KISSlicer。以下僅示範 ATOM 官方所推薦及提供的 Cura。
+切片軟體有非常多種，如 Cura、Simplify3D、Slic3r、KISSlicer，等等。<!--以下示範 ATOM 官方所推薦的 Cura。-->
 
+以下分別介紹目前實驗室使用切片軟體，**Cura**及**Bambu Studio**。
+
+#### 🔴Cura
 > Cura 軟體可以在實驗室 NAS 中找到，也可以去 [ATOM](https://www.atom3dp.com/%E5%88%87%E7%89%87%E8%BB%9F%E9%AB%94%E8%A8%AD%E5%AE%9A%E6%AA%94) 官網下載。  
 > 唯要注意 ATOM 官網所提供的 Cura 才有包含其 3D 列印機的基本設定，直接到 Ultimaker 下載的 Cura 沒有。
 
-首次安裝完 Cura 時，應會請你選擇 3D 列印機的型號（如：2.5 EX 或 2.5 FX），請依照自己實際要使用的機台作選擇（未來還可以改）。
+首次安裝完 Cura 時，應會請你選擇 3D 列印機的型號<!--（如：2.5 EX 或 2.5 FX）-->，請依照自己實際要使用的機台作選擇（未來還可以改）。
 
 [![](https://1.bp.blogspot.com/-TTJjUNSidy0/YFn1Fr-FooI/AAAAAAAAAW4/fzBvqrs0kZs7WhGooczqQFXVI7hcVqhnACPcBGAsYHg/s1842/03-Cura%25E8%25A8%25AD%25E5%25AE%259A1.png)](https://1.bp.blogspot.com/-TTJjUNSidy0/YFn1Fr-FooI/AAAAAAAAAW4/fzBvqrs0kZs7WhGooczqQFXVI7hcVqhnACPcBGAsYHg/s1842/03-Cura%25E8%25A8%25AD%25E5%25AE%259A1.png)
 > ▲ Cura 介面
 
-~~開啟 Cura 後，在右側是列印的參數設定，請將「列印設定」由「推薦」改成「自訂選項」，並修改其中的設定值如下：~~ 
+<!--開啟 Cura 後，在右側是列印的參數設定，請將「列印設定」由「推薦」改成「自訂選項」，並修改其中的設定值如下：-->
 
-列印設定使用「推薦」即可，列印有問題再依照需求做更改。
+列印設定使用「推薦」即可，列印有問題再依照需求做更改。(ex:支撐，回抽，等等。視模型情況調整。)
+> md註解有ATOM參數
+
 <!--
 - 品質
   - 層高：`0.2 mm`
@@ -264,9 +274,8 @@ title: 階段二：基本設備
 >   - 邊緣寬度：`10 mm`
 >   - 僅在外部列印邊緣：`[√]` ~~
 -->
-## 切片
-### Cura
-> :triangular_flag_on_post: 示範影片。
+
+> :triangular_flag_on_post:  Cura切片示範影片。參數用推薦即可。
 >
 > [![](https://img.youtube.com/vi/dQmnk84itwM/0.jpg)](https://youtu.be/dQmnk84itwM)
 
@@ -281,13 +290,13 @@ title: 階段二：基本設備
 
 確定沒問題後就可以點擊右下角的「儲存檔案」，來輸出成 G-Code 檔（.gcode）。
 
-### Bambu Studio
+#### 🔴Bambu Studio
 > 詳細內容請見:[Bambu Lab Wiki](https://wiki.bambulab.com/zh/x1)
 
-Bambu 3D列印機有自己的[切片軟體](https://bambulab.com/en/download/studio)該軟體可以透過帳號連線傳輸列印檔，不用透過SD卡
+Bambu 3D列印機有自己的[切片軟體](https://bambulab.com/en/download/studio)該軟體可以透過帳號傳輸列印檔，不用透過SD卡。
 
 - 軟體開啟後用實驗室帳號(帳號:nfurobotlab.member@gmail.com)登入
-- 直接把檔案拉進Bambu Studio 或 點選左上File -> Open Project
+- 把檔案拉進Bambu Studio 或 點選左上File -> Open Project
 ![Imgur](https://i.imgur.com/rNYrdt7.png)
 
 - 調整切片參數
@@ -299,55 +308,57 @@ Bambu 3D列印機有自己的[切片軟體](https://bambulab.com/en/download/stu
 
 ![Imgur](https://i.imgur.com/q6PeUtc.png)
 
-## 準備列印
-Creality  CR-5 Pro 與 Ender-5 Pro 需要在列印前手動條平。若平台太低會造成料黏不上平台，反之有可能損壞列印機。
+### 準備列印
+Creality  CR-5 Pro 與 Ender-5 Pro 需要在列印前手動調平。若平台太低會造成料黏不上平台，反之噴嘴有可能撞壞列印平台。
 
-未調平前，須看著列印機印完第一層才可離開。
+需要手動調平的列印機，須看著列印機印完第一層才可離開。
 
-> :triangular_flag_on_post: 示範影片。
+> :triangular_flag_on_post: 調平示範影片。
 >
 > [![](https://img.youtube.com/vi/2kmvb49FlUs/0.jpg)](https://youtu.be/2kmvb49FlUs)
 
-- 步驟
+- 步驟：
   - 回到原點(auto home)
-  - 關閉步進馬達
-  - 將擠出機移到平台4個角落
-  - 墊上白紙，移動白紙(或擠出機)感受平台高度
+  - 關閉步進馬達(若Z軸會動則不關)
+  - 將噴嘴移到平台4個角落
+  - 墊上白紙，移動白紙(或噴嘴)感受平台高度
   > 螺母向上轉->平台向下，螺母向下轉->平台向上
   - 調完即可開始列印第一層，並微調螺母直到料能黏上平台
 
 
-## 進行列印
-將「ATOM 2.5 EX (FX)」的 SD 卡取下，並將目標 G-Code 檔（.gcode）放到 SD 卡內，再將 SD 卡插回機台並開啟電源即可。
+### 進行列印
+將<!--「ATOM 2.5 EX (FX)」-->3D列印機上的 SD 卡取下，並將 G-Code 列印檔（.gcode）放到 SD 卡內，再將 SD 卡插回機台並開啟電源。
 
-> ATOM 2.5 EX (FX) 無法讀取中文檔名，會變成亂碼，故檔名請使用英文或數字。
+> 3D列印機無法讀取中文檔名，會變成亂碼，故檔名請使用英文或數字。
+<!--> ATOM 2.5 EX (FX) 無法讀取中文檔名，會變成亂碼，故檔名請使用英文或數字。-->
 
-在「ATOM 2.5 EX (FX)」中按下旋鈕進入到選單中，並旋轉旋鈕直到選擇到「Print Form SD」再按下旋鈕，旋轉旋鈕來選擇要列印的 G-Code 檔案並按下旋鈕。
+<!--在「ATOM 2.5 EX (FX)」中按下旋鈕進入到選單中，並旋轉旋鈕直到選擇到「Print Form SD」再按下旋鈕，旋轉旋鈕來選擇要列印的 G-Code 檔案並按下旋鈕。-->
+在3D列印機的選單中，選擇「Print Form SD」，找到要列印的檔案並點選列印。
 
-此時就會進入列印程序，機台會先進行平台（熱床）加熱，完成後再進行擠出頭加熱。當平台與擠出頭都加熱到目標溫度後，就會自動開始進行列印。
+此時就會進入列印程序，機台會先進行平台（熱床）加熱，完成後再進行噴嘴加熱。當平台與擠出頭都加熱到目標溫度後，就會自動開始進行列印。
 
 開始進行列印後，可以先觀察一開始第一層的列印情況，如果有問題（如沒有附著）的話，可以馬上暫停列印，進行調整後再重新列印。如果第一層的列印沒有什麽問題的話，就可以等待列印完成了。
 
-> 要停止列印，請按下旋鈕進入選單，並旋轉旋鈕直到選擇到「Stop Print & Home」並按下旋鈕。 
+<!--> 要停止列印，請按下旋鈕進入選單，並旋轉旋鈕直到選擇到「Stop Print & Home」並按下旋鈕。 -->
+若要停止列印，可在選單中選擇「Stop Print & Home」。
 
-## 列印完成
+### 列印完成
 
-列印完成，待溫度下降後取下列印板，輕摺列印板使打印件翹邊即可輕鬆取下列印件。使用尖嘴鉗或斜口鉗將多餘的部分（如支撐支架、邊緣）去除。
+列印完成，待溫度下降後取下列印板，輕摺列印板使打印件翹邊即可取下列印件，並使用尖嘴鉗或斜口鉗將打印件上多餘的部分（如支撐支架、邊緣）去除。
 > 需先取下列印板，不可直接在列印機上使用鏟刀。
 > 
 > Creality CR-5 Pro 之**玻璃列印板**可用剷刀取下列印件。
 <!--列印完成後，可以利用鏟刀來將列印完成之列印件從列印平台上剷起。使用尖嘴鉗或斜口鉗將多餘的部分（如支撐支架、邊緣）去除。-->
 
-
 等待 3D 列印機的擠出頭溫度降到 `100°C` 以下後就可以關閉電源。離開時記得清潔乾净、將垃圾丟到垃圾桶並將工具放回原位。
 
-## 其它注意事項
+### 其它注意事項
 - 3D 列印的尺寸誤差較大，在進行模型繪製時請將此因素考慮進尺寸的設定中。
 - 嘗試列印時可以將列印品質調低（如降低填充密度），來節省時間與耗材，等確定該模型沒問題後，再進行正式的列印。
 - 3D 列印件的强度有限，如果需要較高强度的零件，請選擇其它加工成型方式，而不是一味地增加填充密度（填充密度建議不要超過 `25%`，再高的意義不大、强度增加有限，但會大幅增加列印時間與耗材使用）。
 - 若列印時出現其他問題，請參考[Bambu Lab Wiki 常见打印质量问题和解决办法](https://wiki.bambulab.com/zh/knowledge-sharing/common-print-quality-problem)
 
-# 驗收-2：自行設計並製作機械手臂
+## 驗收-2：自行設計並製作機械手臂
 使用「驗收-1」所繪製的 AX-12 馬達 3D 模型，再自行繪製其支撐零件，設計一個帶夾爪的機械手臂。並利用雷射切割機或 3D 列印機將零件製作出來，並完成組裝。
 
 夾爪與機械手臂的結構不限（關節式、SCARA），但應要有辦法完成「驗收-4」的要求。
