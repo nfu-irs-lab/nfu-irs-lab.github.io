@@ -66,6 +66,7 @@ void main(void)
 - [為你自己學 Git！](https://gitbook.tw/chapters/introduction/about-this-book.html)
 - [什麼是 Git？為什麼要學習它？](https://gitbook.tw/chapters/introduction/what-is-git.html)
 - [git alias教學](https://ithelp.ithome.com.tw/articles/10278293)
+- [git 教學參考影片](https://www.youtube.com/watch?v=PNEM7CH3ZAg&list=PLYrA-SsMvTPOZeB6DHvB0ewl3miMf-2tj)
 
 ## push或是clone repo時，發生Permission denied
   - 找到電腦裡的「認證管理員」
@@ -129,4 +130,4 @@ md <file-name>..\ (新增資料夾)
 git log --all --decorate --oneline --graph
 
 ```
-[git 教學參考影片](https://www.youtube.com/watch?v=PNEM7CH3ZAg&list=PLYrA-SsMvTPOZeB6DHvB0ewl3miMf-2tj)
+
