@@ -308,6 +308,12 @@ Bambu 3D列印機有自己的[切片軟體](https://bambulab.com/en/download/stu
 
 ![Imgur](https://i.imgur.com/q6PeUtc.png)
 
+- 新增副廠料
+
+![Imgur](https://i.imgur.com/UFS7iQi.png)
+
+
+
 ### 準備列印
 Creality  CR-5 Pro 與 Ender-5 Pro 需要在列印前手動調平。若平台太低會造成料黏不上平台，反之噴嘴有可能撞壞列印平台。
 
