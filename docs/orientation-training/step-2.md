@@ -308,7 +308,8 @@ Bambu 3D列印機有自己的[切片軟體](https://bambulab.com/en/download/stu
 
 ![Imgur](https://i.imgur.com/q6PeUtc.png)
 
-- 新增副廠料
+- 其他
+  - 新增副廠料
 
 ![Imgur](https://i.imgur.com/UFS7iQi.png)
 
@@ -362,6 +363,7 @@ Creality  CR-5 Pro 與 Ender-5 Pro 需要在列印前手動調平。若平台太
 - 3D 列印的尺寸誤差較大，在進行模型繪製時請將此因素考慮進尺寸的設定中。
 - 嘗試列印時可以將列印品質調低（如降低填充密度），來節省時間與耗材，等確定該模型沒問題後，再進行正式的列印。
 - 3D 列印件的强度有限，如果需要較高强度的零件，請選擇其它加工成型方式，而不是一味地增加填充密度（填充密度建議不要超過 `25%`，再高的意義不大、强度增加有限，但會大幅增加列印時間與耗材使用）。
+- [耗材規格比較圖](https://bambulab.cn/zh-cn/filament-guide)
 - 若列印時出現其他問題，請參考[Bambu Lab Wiki 常见打印质量问题和解决办法](https://wiki.bambulab.com/zh/knowledge-sharing/common-print-quality-problem)
 
 ## 驗收-2：自行設計並製作機械手臂
