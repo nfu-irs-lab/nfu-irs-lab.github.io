@@ -10,6 +10,7 @@ title: 階段二：基本設備
 :::caution
 雷射切割機若操作不當將導致火災，操作時請小心並多加確認。
 :::
+
 ![Imgur](https://i.imgur.com/R2S75Mt.jpeg)
 > ▲ 實驗室的雷射切割機
 
