@@ -10,8 +10,7 @@ title: 階段二：基本設備
 :::caution
 雷射切割機若操作不當將導致火災，操作時請小心並多加確認。
 :::
-
-[![](https://1.bp.blogspot.com/-inS00IaK8AM/YFoMVhr0hHI/AAAAAAAAAZw/I48W9jR7JPMMzH0a-a7l__aPabTkHscVQCPcBGAsYHg/w640-h480/01-%25E6%25A9%259F%25E8%2587%25BA1.jpg)](https://1.bp.blogspot.com/-inS00IaK8AM/YFoMVhr0hHI/AAAAAAAAAZw/I48W9jR7JPMMzH0a-a7l__aPabTkHscVQCPcBGAsYHg/w640-h480/01-%25E6%25A9%259F%25E8%2587%25BA1.jpg)
+![Imgur](https://i.imgur.com/R2S75Mt.jpeg)
 > ▲ 實驗室的雷射切割機
 
 
@@ -45,7 +44,7 @@ title: 階段二：基本設備
 
 開機前先確認鑰匙開關是否已開啟，且緊急停機按鈕「STOP」沒有被按下。
 
-雷切機相關的設備總共有 4 個，使用時請將它們依序打開電源，依序分別為：
+雷切機相關的設備總共有 4 個，使用時請直接按下總開關即可，分別為：
 - 水冷機
 - 水冷液幫補
 - 排風扇
@@ -55,8 +54,7 @@ title: 階段二：基本設備
 - 雷切機及相關設備開機後至少要等待 5 分鐘以上，才可以進行作業。
 - 打開電源後一定要注意各機器是否有在運作，若有問題將有可能導致火災。
 :::
-
-[![](https://1.bp.blogspot.com/-djki5Xvaxtg/YFoMVrybnfI/AAAAAAAAAZw/07Gr55Bl0Ws1l9bqmLG9agfbK5rbA5IPwCPcBGAsYHg/w640-h480/02-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E9%259B%25BB%25E6%25BA%25901.jpg)](https://1.bp.blogspot.com/-djki5Xvaxtg/YFoMVrybnfI/AAAAAAAAAZw/07Gr55Bl0Ws1l9bqmLG9agfbK5rbA5IPwCPcBGAsYHg/w640-h480/02-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E9%259B%25BB%25E6%25BA%25901.jpg)
+![Imgur](https://i.imgur.com/u1cojSW.jpeg)
 > ▲ 雷切機各電源開關
 
 [![](https://1.bp.blogspot.com/-CqzjryPf4Ls/YFoMVp4KD-I/AAAAAAAAAZw/7oDZZwrRuGcaibOQ23PiCQWvOF0UcBL1gCPcBGAsYHg/w640-h480/03-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25B7%258A%25E6%2580%25A5%25E5%2581%259C%25E6%25AD%25A21.jpg)](https://1.bp.blogspot.com/-CqzjryPf4Ls/YFoMVp4KD-I/AAAAAAAAAZw/7oDZZwrRuGcaibOQ23PiCQWvOF0UcBL1gCPcBGAsYHg/w640-h480/03-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25B7%258A%25E6%2580%25A5%25E5%2581%259C%25E6%25AD%25A21.jpg)
