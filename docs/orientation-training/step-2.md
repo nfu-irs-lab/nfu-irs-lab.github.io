@@ -111,11 +111,9 @@ title: 階段二：基本設備
 :::
 
 點擊程式右下角下載，文件後命名文件時不能有中文。
-[img][/img]
 ![Imgur](https://i.imgur.com/gJHktCj.png)
 若不想下載到雷射切割機內，左鍵滑鼠選取你要的圖片，就可以按下走邊框與開始，就會開始切割了
-[img]https://i.imgur.com/lb5wDpH.png[/img]
-![Imgur](https://i.imgur.com/uAo3lhj.jpeg)
+![Imgur](https://i.imgur.com/lb5wDpH.png)
 開啟雷切機上蓋，將要切割的壓克力板放入。要注意切割範圍**不可以**超過底下的金屬蜂巢網。
 
 使用雷切機程式上的「Y+」、「Y-」、「X+」、「X-」來移動雷射頭。
