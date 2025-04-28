@@ -56,15 +56,14 @@ title: 階段二：基本設備
 :::
 ![Imgur](https://i.imgur.com/u1cojSW.jpeg)
 > ▲ 雷切機各電源開關
-
-[![](https://1.bp.blogspot.com/-CqzjryPf4Ls/YFoMVp4KD-I/AAAAAAAAAZw/7oDZZwrRuGcaibOQ23PiCQWvOF0UcBL1gCPcBGAsYHg/w640-h480/03-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25B7%258A%25E6%2580%25A5%25E5%2581%259C%25E6%25AD%25A21.jpg)](https://1.bp.blogspot.com/-CqzjryPf4Ls/YFoMVp4KD-I/AAAAAAAAAZw/7oDZZwrRuGcaibOQ23PiCQWvOF0UcBL1gCPcBGAsYHg/w640-h480/03-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25B7%258A%25E6%2580%25A5%25E5%2581%259C%25E6%25AD%25A21.jpg)
+這邊放新照片
+![Imgur](https://i.imgur.com/3TEQjRw.jpeg)
 > ▲ 雷切機開機
 
 ### 導入 DXF 檔
 
-操作雷切機請使用雷切機專用的電腦，並打開專用程式「LaserCut 5.3」。
-
-[![](https://1.bp.blogspot.com/-GNeeNNRqJnQ/YFoMVs90AeI/AAAAAAAAAZw/MKrPW63fEs832Du9bRtbUDwfzBxYAmV8wCPcBGAsYHg/w400-h300/04-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25A8%258B%25E5%25BC%258F1.jpg)](https://1.bp.blogspot.com/-GNeeNNRqJnQ/YFoMVs90AeI/AAAAAAAAAZw/MKrPW63fEs832Du9bRtbUDwfzBxYAmV8wCPcBGAsYHg/w400-h300/04-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25A8%258B%25E5%25BC%258F1.jpg)
+操作雷切機請使用雷切機專用的電腦，並打開專用程式「RDWorkV8」。
+![Imgur](https://i.imgur.com/z10BOac.jpeg)
 > ▲ 雷切機程式「LaserCut 5.3」
 
 依序點擊 `文件 > 導入` 並選擇目標 DXF 檔後開啟。注意是「導入」而不是「打開」。
@@ -74,32 +73,34 @@ title: 階段二：基本設備
 
 由於繪圖軟體換成 DXF 檔後會形成斷點，而每個斷點都會是一個路徑 ，故在切割前需要使用「合併相連線」減少斷點。
 
-請全選後依序點擊 `工具 > 合併相連線`。調整容差值，視圖檔情況而定，通常預設 `0.01`，點選「OK」即完成。
+請全選後依序點擊 `處理 > 合併相連線`。調整容差值，視圖檔情況而定，通常預設 `0.01`，點選「OK」即完成。
 
-[![](https://1.bp.blogspot.com/-HbxgFj0BShE/YFoMVrbTRjI/AAAAAAAAAZw/Kpi5kHHpwdUn5OW390s42Bd3OrHSN3DZwCPcBGAsYHg/w640-h480/06-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25A8%258B%25E5%25BC%258F%25E5%2590%2588%25E5%25B9%25B6%25E7%259B%25B8%25E9%2580%25A31.jpg)](https://1.bp.blogspot.com/-HbxgFj0BShE/YFoMVrbTRjI/AAAAAAAAAZw/Kpi5kHHpwdUn5OW390s42Bd3OrHSN3DZwCPcBGAsYHg/w640-h480/06-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25A8%258B%25E5%25BC%258F%25E5%2590%2588%25E5%25B9%25B6%25E7%259B%25B8%25E9%2580%25A31.jpg)
+![Imgur](https://imgur.com/S5Q68Oa.jpeg)
 > ▲ 合併相連線
 
 ### 設定參數及圖層
 
 接下來要設定雷切參數及圖層。
 
-在雷切機程式右上角會看到目前的圖層及設定。若要進行雷射切割，請將該圖層的「模式」改成「鐳射切割」。
-
-[![](https://1.bp.blogspot.com/-z5uycffSND0/YFoMVmctYjI/AAAAAAAAAZw/C_zmxI_m4LkY98lYtgt5gTB8KhJ6dA9KQCPcBGAsYHg/w286-h640/07-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25A8%258B%25E5%25BC%258F%25E5%259C%2596%25E5%25B1%25A41.jpg)](https://1.bp.blogspot.com/-z5uycffSND0/YFoMVmctYjI/AAAAAAAAAZw/C_zmxI_m4LkY98lYtgt5gTB8KhJ6dA9KQCPcBGAsYHg/w286-h640/07-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E7%25A8%258B%25E5%25BC%258F%25E5%259C%2596%25E5%25B1%25A41.jpg)
+在雷切機程式點選你要切割的圖形，再點選下面的顏色個顏色有各自預設的切割設定，例如黑色為雷射切割，藍色為雷射掃描。
+![Imgur](https://i.imgur.com/9zI4z5u.jpeg)
+右上角會看到目前的圖層及設定。若要進行雷射切割，請將該圖層的「模式」改成「鐳射切割」。
+![Imgur](https://i.imgur.com/78fyZH3.jpeg.jpeg)
 > ▲ 圖層
 
 對目標圖層點擊 2 下來開啟參數設置視窗。基本的雷切參數設定如下：
 - 加工速度：*視實際要切割之壓克力厚度而定*(以下數據僅供參考)
-  1. 2mm 速度0.7，1次即可切穿
-  2. 3mm 速度0.7，1次即可切穿
-  3. 5mm 速度0.3，1次即可切穿
-  4. 10mm 速度0.3，2次即可切穿     
-- 加工功率：`70.0`（:warning: **`請勿超過此數值，嚴重將導致火災`** :warning:）
-- 拐彎功率：`70.0`（:warning: **`請勿超過此數值，嚴重將導致火災`** :warning:）
-- 封口重疊長度：`0.0`
-- 吹氣模式：`一直吹氣`（:warning: **`請勿亂調此設定，嚴重將導致火災`** :warning:）
 
-而雷切參數中的加工速度要視要切割的壓克力厚度而定。實際數值請詢問學長或自行嘗試。
+切割分兩種:
+>- 1.速度快100-150mm/s.功率低10-15%表面畫線
+>- 2.速度慢10-20mm/s、功率高80%看材料厚度做切穿
+掃描:
+速度快200-400mm/s,功率10-50%功率越大就雕越深
+
+該程式也有預設的參數設定，請按"從參數庫取參數"。
+[img][/img]
+![Imgur](https://i.imgur.com/6JurWEo.jpeg)
+而雷切參數中的加工速度要視要切割的壓克力厚度而定。實際數值請詢問學長或自行嘗試，請專題生如果真有特殊需求再請學長教學。
 
 若要切割的目標零件是中間沒有孔洞，只有外框輪廓的，那就只要設定一個圖層就可以了。但如果是中間有孔洞（如螺絲孔、鏤空）的話，那外框輪廓的線條與內部孔洞的線條要設定不同的圖層，且內部孔洞的圖層順序要在前（雷切機製作的順序為圖層較高的先），這樣做的目的是避免零件切割掉落後產生的誤差。
 
@@ -109,27 +110,27 @@ title: 階段二：基本設備
 操作雷切機時，如果出現任何問題或預期外事件，立刻按下緊急停機按鈕（STOP）。
 :::
 
-設定好參數後就可以按下雷切機程式右下角的「下載數據」，再按下「下載當前加工資料」，程式就會將資料傳輸到雷切機中。
-
-> - 有時後會跳出資料傳輸失敗的訊息，請多嘗試幾次。
-> - 請確定雷切機已經開機了再下載數據。
-
+點擊程式右下角下載，文件後命名文件時不能有中文。
+[img][/img]
+![Imgur](https://i.imgur.com/gJHktCj.png)
+若不想下載到雷射切割機內，左鍵滑鼠選取你要的圖片，就可以按下走邊框與開始，就會開始切割了
+[img]https://i.imgur.com/lb5wDpH.png[/img]
+![Imgur](https://i.imgur.com/uAo3lhj.jpeg)
 開啟雷切機上蓋，將要切割的壓克力板放入。要注意切割範圍**不可以**超過底下的金屬蜂巢網。
 
 使用雷切機程式上的「Y+」、「Y-」、「X+」、「X-」來移動雷射頭。
 
-將雷射頭移動到壓克力板上，預計要切割的圖形最右上角的位置，並在雷射頭及壓克力板之間放置對焦片。手扶著雷射頭下方，並用手輕輕地將雷射頭對焦螺絲轉鬆，令雷射頭碰觸對焦片，再用手轉緊螺絲，即完成對焦。
-
-對焦完成後就可以將對焦片拿起並收納好。
-
+將雷射頭移動到壓克力板上，預計要切割的圖形最右上角的位置，並在雷射頭及壓克力板之間放置對焦片，請先透過雷切機旁的平台升降按鈕將平台升至對焦片無發通過的高度
+![Imgur](https://i.imgur.com/uAo3lhj.jpeg.)
+![Imgur](https://i.imgur.com/VWv6tCD.jpeg)
+再慢慢地使平台下降至剛好使對焦片通過。
+![Imgur](https://i.imgur.com/4LyXrgU.jpeg)
+> ▲ 雷射頭對焦。
 :::caution
 - 請注意手一定要扶著雷射頭再轉鬆螺絲，不然雷射頭會突然掉落造成撞擊，導致失焦。
-- 這裡要轉靜/鬆的螺絲是比較上面的內六角黑色螺絲，不是連接著吹氣管的銀色手轉螺絲（吹氣氣閥調整螺絲）。若發現轉錯請**立即停止操作**，並告知學長。
-:::
-
-[![](https://1.bp.blogspot.com/-pMr6tegd9sg/YFsfv4MV9HI/AAAAAAAAAcE/gmQty2k4YWAshViaTQrBhRQ1RzHLvVprACPcBGAsYHg/s16000/10-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E5%25B0%258D%25E7%2584%25A6%25E7%2589%25871.jpg)](https://1.bp.blogspot.com/-pMr6tegd9sg/YFsfv4MV9HI/AAAAAAAAAcE/gmQty2k4YWAshViaTQrBhRQ1RzHLvVprACPcBGAsYHg/s16000/10-%25E9%259B%25B7%25E5%2588%2587%25E6%25A9%259F%25E5%25B0%258D%25E7%2584%25A6%25E7%2589%25871.jpg)
-> ▲ 雷射頭對焦。
-
+- 對焦片一定要如圖所示要是立起來的可以，可以閱讀數字的狀態，不然會失焦。
+- 若上述順序鄉反過來容易使雷射頭受到撞擊導致故障。
+  
 完成對焦後可以按下雷切機程式右側的「走邊框」，這時雷射頭會繞著要切割形狀的最大外接矩形，可以依據它移動的路徑與範圍來判斷壓克力板的空間是否足夠，若不足夠請調整雷射頭位置或移動/更換壓克力板。
 
 都確定沒問題後，將雷切機的上蓋蓋起，並按下雷切機程式右側的「開始」，機台就會開始進行動作。雷切機運作時會產生高強度雷射，請勿用眼睛直視，否則會受傷。
@@ -150,14 +151,11 @@ title: 階段二：基本設備
 
 ### 雷切機關機
 
-要關機的話，請將各設備依序開機時的相反順序關閉電源，依序分別為：
-- 雷射切割機
-- 排風扇
-- 水冷液幫補
-- 水冷機
+要關機的話，請將各設備依序開機時的相反順序關閉電源，請一樣切掉總電源開關。
 
 :::caution
 一定要確定機台都確實關機停止運作，否則有可能導致火災。
+如有任何操作不懂，請詢問學長勿自行判斷。
 :::
 
 ## 3D 列印機
